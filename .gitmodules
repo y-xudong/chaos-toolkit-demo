@@ -1,0 +1,9 @@
+[submodule "environment/ecsdemo-frontend"]
+	path = environment/ecsdemo-frontend
+	url = git@github.com:brentley/ecsdemo-frontend.git
+[submodule "environment/ecsdemo-nodejs"]
+	path = environment/ecsdemo-nodejs
+	url = git@github.com:brentley/ecsdemo-nodejs.git
+[submodule "environment/ecsdemo-crystal"]
+	path = environment/ecsdemo-crystal
+	url = git@github.com:brentley/ecsdemo-crystal.git
